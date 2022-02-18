@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amaan Ur Rahman
-- 🌱 I’m currently learning Android Development Using Kotlin Language
+- 🌱 I’m an Android Developer💻
 
 
 <!---
